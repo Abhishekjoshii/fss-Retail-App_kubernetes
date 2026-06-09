@@ -7,3 +7,4 @@ data:
   MONGODB_URI: "mongodb://retail-mongodb-service:27017/myDatabase"
   SESSION_SECRET: "mysecret123"
   PORT: "3130"
+  MONGO_INITDB_DATABASE: "myDatabase"
